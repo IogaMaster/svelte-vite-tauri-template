@@ -1,5 +1,7 @@
-# Svelte + TS + Vite + Tauri = Awesome
+![banner](./.github/assets/banner.png)
+With ***Typescript*** support!
 
+---
 
 Clone this repo and run these commands:
 
